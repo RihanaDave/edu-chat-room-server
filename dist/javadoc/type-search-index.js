@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"serverres","l":"ClientDetail"},{"p":"forumserver","l":"ClientSupportThread"},{"p":"serverres","l":"ConnectionFactory"},{"p":"forumserver","l":"ForumServer"},{"p":"commres","l":"Request"},{"p":"forumserver","l":"ServerWin"},{"p":"serverres","l":"SharedResources"}];updateSearchResults();
